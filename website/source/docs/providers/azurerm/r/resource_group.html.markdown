@@ -40,6 +40,7 @@ The following arguments are supported:
 The following attributes are exported:
 
 * `id` - The resource group ID.
+* `name` - The resource group name.
 
 
 ## Import
